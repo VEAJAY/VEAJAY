@@ -10,4 +10,4 @@ I've been enjoying coding ever since I made my first video game at the age of 14
 
 ---
 
-> *"Seek out the pattern, and you'll find the solution to your problem." -Jayland*
+> *"Seek out the pattern, and you'll find the solution to your problem."
