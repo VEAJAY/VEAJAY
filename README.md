@@ -11,4 +11,4 @@ I've been enjoying coding ever since I made my first video game at the age of 14
 #### Learn more about me at [jaylandveasey.dev](https://jaylandveasey.dev/)
 ---
 
-> *"Seek out the pattern, and you'll find the solution to your problem."
+> "Seek out the pattern, and you'll find the solution to your problem."
