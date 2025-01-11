@@ -8,6 +8,7 @@ I've been enjoying coding ever since I made my first video game at the age of 14
 - 🎮 Gameplay designer using Unreal Engine 5
 - 💪 Love to excercise and learn new skills in my free time
 
+#### Learn more about me at [jaylandveasey.dev](https://jaylandveasey.dev/)
 ---
 
 > *"Seek out the pattern, and you'll find the solution to your problem."
